@@ -1,4 +1,4 @@
-<!--  ------------Welcome to Website Builder -------------
+------------------------Welcome to Website Builder ------------------------
 
 1/ This Website is for Hiring Candidates For Web Development.
 
@@ -6,12 +6,9 @@
 
 3/ Here i mentioned My Total Salary budget.
 
-4/There ate total 9 Candidates.
+4/There are total 9 Candidates.
 
-
-
-
--------------------------------------------------------------- -->
+5/ My Website link : (https://flamboyant-sammet-880582.netlify.app/).
 
 <!-- # Getting Started with Create React App
 
