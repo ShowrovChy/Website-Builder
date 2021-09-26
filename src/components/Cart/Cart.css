@@ -1,0 +1,21 @@
+.right-col {
+  margin-right: 10px;
+  position: sticky;
+  right: 10px;
+  top: 10px;
+}
+.cart-style {
+  min-height: 400px;
+  text-align: left;
+  box-shadow: 2px 4px 6px gray;
+  transition: 0.5s all;
+}
+.card-style:hover {
+  box-shadow: 4px 6px 8px gray;
+  transform: translateY(-18px);
+  transition: 0.5s all;
+}
+.card-body > h5,
+h4 {
+  margin-top: 20px;
+}

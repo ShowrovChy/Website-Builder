@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+<!--  ------------Welcome to Website Builder -------------
+
+1/ This Website is for Hiring Candidates For Web Development.
+
+2/ This is s Single Page Website.
+
+3/ Here i mentioned My Total Salary budget.
+
+4/There ate total 9 Candidates.
+
+
+
+
+-------------------------------------------------------------- -->
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +83,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ -->
